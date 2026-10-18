@@ -35,7 +35,7 @@ Start with one planet and build it into a galactic empire. Tap to bootstrap, the
 
 ## Assets
 
-- `screenshots/` — five framed gameplay screenshots
+- `screenshots/` — seven gameplay screenshots (1920×1080)
 - `logos/` — app icon and logo
 - `graphics/` — feature graphic and cover art in several sizes
 
