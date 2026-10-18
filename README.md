@@ -36,7 +36,7 @@ Start with one planet and build it into a galactic empire. Tap to bootstrap, the
 ## Assets
 
 - `screenshots/` — five framed gameplay screenshots
-- `logos/` — app icon and transparent logo
+- `logos/` — app icon and logo
 - `graphics/` — feature graphic and cover art in several sizes
 
 All assets are free to use for coverage of Galactic Idle.
